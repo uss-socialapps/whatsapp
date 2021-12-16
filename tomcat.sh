@@ -1,2 +1,1 @@
-tomcat is a web aplication
-this is a devolpment branch
+tomcat is a web aplication 
